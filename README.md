@@ -72,6 +72,6 @@ The analysis is divided into **three interactive dashboards**:
 
 ![Screenshot (229)](https://github.com/user-attachments/assets/f9d0306d-108b-4621-9196-6ad665c7b36b)
 
-![Screenshot (230)](https://github.com/user-attachments/assets/a313a565-8dcf-4aaf-9494-bd3b937518eb)
+
 
 ---
