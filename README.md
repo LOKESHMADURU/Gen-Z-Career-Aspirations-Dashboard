@@ -67,11 +67,10 @@ The analysis is divided into **three interactive dashboards**:
 ---
 
 ## 📊 Dashboard Preview
+<img width="1158" height="499" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/ba6c1b65-61a6-4c5e-a754-dd41b208e2a2" />
 
-![Screenshot (228)](https://github.com/user-attachments/assets/c4f12df8-f334-4f87-a8d9-5acbd1b4e8d3)
+<img width="1169" height="500" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/a075791a-3f25-4532-abbe-3efbe3963fde" />
 
-![Screenshot (229)](https://github.com/user-attachments/assets/f9d0306d-108b-4621-9196-6ad665c7b36b)
-
-![Screenshot (230)](https://github.com/user-attachments/assets/d44a5133-299a-4c08-8207-d7cbdc0a5e78)
+<img width="1162" height="500" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/f687c249-936d-4cc1-a015-41f0d7bddd4d" />
 
 ---
